@@ -6,11 +6,11 @@ Espaço para compartilhar códigos e conteudos relacionados a matéria de Princ�
 
 ##Ementa das matérias
 
-[MAC0446](https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=MAC0446&codcur=45051&codhab=1 “MAC00446”) ;
+[MAC0446](https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=MAC0446&codcur=45051&codhab=1 "MAC00446") ;
 
 ##Videos
 
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+[![Alt text for your video](http://img.youtube.com/vi/eAnhfERi0jw/0.jpg)](http://www.youtube.com/watch?v=eAnhfERi0jw)
 
 
 ## Pastas
@@ -20,7 +20,7 @@ As pastas são organizadas por linguagem, de forma similar ao esquema abaixo
 ```
 Introducao-Computacao-MAC0110/
 | -- README.md
-| -- exercicios /
+| -- Atividades /
 | -- exemplos /
 | -- notas
 
@@ -40,9 +40,6 @@ Conteúdo mínimo para o cabeçalho publicação:
 ----------------------------------------------------------------------------------------------------------------------*/
 ```
 O papel do cabeçalho é permitir uma busca simples e rápida de códigos específicos. Por isso contém as informações como  o enunciado, a matéria. O campo TAGS é para toda outra informação relevante ao código, para permitir uma fácil busca de conteúdos.
-
-## Busca
-O github permite fazer busca dentro dos códigos de um repositório. Para isso, no início de cada página há uma caixa de texto onde se pode digitar o conteúdo que se deseja buscar. Tal ferramenta, junto dos cabeçalhos bem elaborados, vai permitir uma fácil consulta dos códigos aqui guardados.
 
 ##Termos de Uso
 Um pouco de regras é sempre bom para viver bem em comunidade, então vamos lá:
