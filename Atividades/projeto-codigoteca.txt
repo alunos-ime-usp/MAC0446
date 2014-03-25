@@ -1,0 +1,58 @@
+Atividade 2
+MAC0446 Primeiro Semestre 2014
+Autor: Duilio Elias e Nathan Benedetto Proenca
+Enunciado no arquivo ativ2.enun
+
+Projeto:
+
+A Codigoteca IME-USP é um repositório onde alunos e professores poderão compartilhar códigos e conteudos para estudo de computação de maneira organizada e eficiente. Todos poderão contribuir colocando exercícios resolvidos e escrevendo matériais que julgue interessante. Inicialmente pensamos em colocar apenas códigos e criamos um repositório no GitHub e criamos um rascunho de um site para ter ideia de uma possível interface e verificar se há realmente pessoas interessadas em levar em frente este projeto. O projeto foi pensado para ajudar os alunos do IME-USP, porém nada impede que qualquer pessoa possa usufruir dos materiais disponibilizados. Hoje, muitos professores do IME possuem bastante materiais sobre muitas matérias “guardados na sua gaveta”, site pessoal ou na paca, onde apenas quem já teve contato com eles saberá da existencia de tal contéudo. 
+
+Note que é muito importante criar uma comunidade que coloque seus códigos e conteúdos. Sendo que os alunos são parte primordial no processo, pois serão eles que resolverão exercícios e também serão o avaliadores de qualidade de um determinado material postado por um professor ou um amigo, podendo apontar um bugs e enviar Pull request. Porém, antes de tudo precisamos criar um meio de incentivar os alunos a começarem a postar e usar a Codigoteca. O que pode ser feito pelos professores que apoiam o projeto ou alunos divulgando nas redes sociais e listas de emails do IME. Com isso os professores poderão enriquecer seus materiais com as dicas de alunos e de outros colegas e criar exercícios novos a cada ano.
+
+Um repositórios que já incluimos desde o inicio do projeto é da Maratona de Computação, projeto este que vem trazendo bons frutos para o IME nos ultimos tempos e que pode ser uma comunidade bastante ativa. Ensinando para todos alunos “mágicas de programação que não são vistas em sala de aula”. Além de servir de material de aprendizado para pessoas que estão começando a se envolver com a maratona.
+
+A ideia inicial deste projeto foi pensada por um aluno do primeiro ano do Bacharelado em Ciências da Computação, quando fiquei sabendo da ideia, logo  percebi que seria uma forma de utilizar meus conhecimentos aprendidos em IHC para criar algo bastante interessante para a comunidade do IME.  Desde do começo pensamos em algo Open Source, onde todos pudessem contribuir. Como GitHub é um dos repositórios mais conhecidos mundialmente começamos a construir nele, porém nada impede de criar em outro repositório que seja Open Source. Além disso o GitHub também permite criar páginas e tem uma comunidade de desenvolvedores bastante ativa. Possibilitando que este projeto saía dos muros da USP para o Brasil.
+
+    Dificuldades que encontradas: precisamos motivar os alunos e professores a contribuirem postando seus códigos e materiais de aula; muitos alunos não conhecem Git e nem GitHub e precisariam ter um treinamento básico para começar a contribuir; como tudo pode crescer muito rápido, tomar bastante cuidado desde do começo com questões legais (Como plágio em atividades futuras …) é importante; além disso precisamos pensar bem como será a melhor forma de indexada a busca para torná-la eficiente.
+    
+    Algo muito importante a ser colocado é que a Paca não possibilita atualmente compartilhar conteudos onde todos possam usufruire e contribuir para uma melhoria, apenas um publico limitado de quem fez a matéria pode ter acesso. Além disso, muito alunos hoje acabam fazendo atividades e trabalhos e não postando em nenhum lugar, ficando restrita a ele e ao professor que irá fazer a correção.
+
+Cenários:
+
+O fulano.aluno1 do IME está escolhendo as matérias para o próximo semestre e gostaria de ter contato com elas antes de definir sua grade. Ele entrou na codigoteca e encontrou diversos matérias de estudo (Videos, textos e códigos) que possibilitará uma escolha consciente.
+
+O fulano.aluno2 do IME vai para todas as aulas e cópia todas as matérias e gostaria de compartilhar com seus amigos de classe o seu material, porém precisa para isso de uma conta no facebook, o que não gostaria de ter por motivo pessoais e não existe nenhuma ferramenta que seja fácil e rápido de mandar para todos que quiserem visualizar o material que ele postou.
+
+O fulano.professor1 do IME possui em sua página pessoal diversos materiais interessantes sobre disciplinas que ministra e gostaria de disponibilizar para todos os alunos do IME seu material de forma que outros possam também contribuir para um material melhor e disponibiliza ele na codicoteca.
+    
+O Fulano.aluno3 do IME tem bastante dificuldades em computação e infelizmente não sabe inglês e não consegue encontrar bons materiais em português para ajuda-lo como referência de estudos, assim ele encontra na codigoteca materiais com exercícios resolvidos e com muito conteúdo em português que o ajuda e consegue passar com uma boa nota na sua materia de Introdução a computação.
+
+
+Requisitos funcionais:
+    Git e GitHub;
+    Como criar páginas no Git;
+
+Requisitos de usuário:
+    Aberto para o público; Porém o alvo são os alunos do IME do MAC.
+
+Requisitos de Sistema:
+    
+Entrevista:
+    Entrevista para alunos do IME:
+> Qual o seu curso?
+> Qual o seu nível de inglês?
+> Quão úteis são as referências disponibilizadas pelo(s) seu(s) professor(es)?
+> Que tipo de material lhe ajuda ao estudar computação?
+> Você sabe o que é Git e GitHub? se sim, você os utiliza?
+> Você possui materiais de no GitHub sobre materias que já fez que poderia compartilha com os demais alunos?
+> Você tem conhecimentos sobre HTML5?
+> Você teria interesse em buscar códigos feitos por outros alunos relacionado com matérias que você estuda? Por que?
+> Você teria interesse em contribuir com resoluções suas para problemas trabalhados em aula? Por que?
+> Você consideraria relevante uma discussão relacionada às diferentes resoluções de um mesmo problema?
+    Entrevista para professores do IME:
+> Você considera importante compartilhar código, seja para o desenvolvimento de projetos ou para estudo?
+> Você sente dificuldade em receber um feedback dos alunos com relação aos materiais? Se sim, a que atribui tal fato?
+> O contato de um aluno com códigos relacionados a matéria, antes da aula em si, é benéfico ou prejudicial? Por que?
+> O contato de um aluno com o conteúdo estudado em outras linguagens de programação é benéfico ou prejudicial? Por que?
+> Você acredita que um conteúdo disponibilizado por alunos possa ser uma boa referência para a matéria? O que pode melhorar tal fonte?
+> O que você considera importante na criação de uma biblioteca de código?
